@@ -51,7 +51,7 @@ class ASN
         if($success == true){
             return 11;
         } else {
-            return NULL:
+            return NULL;
         }
     }
 
@@ -68,7 +68,7 @@ class ASN
         if($success == true){
             return 11;
         } else {
-            return NULL:
+            return NULL;
         }
     }
 
